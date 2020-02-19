@@ -174,7 +174,7 @@ header.masthead {
   color: white;
   background-image: url("../img/88.jpeg");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   background-size: cover;
 }
